@@ -1,7 +1,7 @@
 {
     'name': "Bank Autocomplete",
     'version': '1.0.0',
-    'summary': 'Auto-complete bank data ',
+    'summary': 'Auto-complete bank data. SWIFT / BIC code, full name, branch, country and city. The dataset covers all the countries. The list contains more than 100 thousand banks. Quick search and completion.',
     'depends': ['base'],
     'author': "Sébastien Mottet",
     'license': "OPL-1",
