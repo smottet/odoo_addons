@@ -11,8 +11,6 @@
     """,
     'images': ['static/description/banner.png'],
     'support': 'sebastien.mottet96@gmail.com',
-    'price': 9.99,
-    'currency': 'EUR',
     'installable': True,
     'post_init_hook': '_populate_res_bank',
 }
